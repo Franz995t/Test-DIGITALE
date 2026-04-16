@@ -58,7 +58,7 @@ https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1776339020~exp=1776339170~acl=/*~hmac=11153c1507591015c442375caa04cb3fcba5cff0f536f22409f6edc05a8ca310
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="50" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png", Sky TG24
 #EXTSIZE: Medium
@@ -200,11 +200,6 @@ https://raicinque1-dash-live.akamaized.net/dash/live/664003/raicinque1/manifest.
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremiumhd.png", Rai Premium HD
-#EXTSIZE: Medium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
-
 #EXTINF:-1 tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png", Cielo HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -293,4 +288,4 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 #EXTINF:-1 tvg-chno="488" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD 2
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
