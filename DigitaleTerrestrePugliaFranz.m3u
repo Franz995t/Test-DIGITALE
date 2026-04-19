@@ -183,12 +183,12 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport5/master.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-name="Antenna Sud Sport 6" tvg-logo="https://www.antennasud.com/media/2026/01/TASTI-STREAMING-SPORT-6-quadrato.png", Antenna Sud Sport 6
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport6/master.m3u8
+https://stream.antennasudwebtv.it:9443/hls/vodsport6.m3u8
 
 #EXTINF:-1 tvg-chno="151" tvg-name="Antenna Sud Sport 7" tvg-logo="https://www.antennasud.com/media/2026/01/TASTI-STREAMING-SPORT-7.png", Antenna Sud Sport 7
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport7/master.m3u8
+https://stream.antennasudwebtv.it:9443/hls/vodsport7.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
 #EXTSIZE: Medium
