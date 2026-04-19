@@ -145,11 +145,6 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-id="TG.NORBA.24.it" tvg-name="TG Norba 24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
-#EXTSIZE: Medium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
-
 #EXTINF:-1 tvg-chno="14" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png", Antenna Sud
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -159,6 +154,41 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-2h
+
+#EXTINF:-1 tvg-chno="145" tvg-name="Antenna Sud Sport 1" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_Sport.png", Antenna Sud Sport 1
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport1/master.m3u8
+
+#EXTINF:-1 tvg-chno="146" tvg-name="Antenna Sud Sport 2" tvg-logo="https://www.antennasud.com/media/2025/08/TASTO-STREAMING-AS-SPORT_2.png", Antenna Sud Sport 2
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport2/master.m3u8
+
+#EXTINF:-1 tvg-chno="147" tvg-name="Antenna Sud Sport 3" tvg-logo="https://www.antennasud.com/media/2025/08/TASTI-STREAMING-SPORT-3.png", Antenna Sud Sport 3
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport3/master.m3u8
+
+#EXTINF:-1 tvg-chno="148" tvg-name="Antenna Sud Sport 4" tvg-logo="https://www.antennasud.com/media/2025/08/TASTI-STREAMING-SPORT-4.png", Antenna Sud Sport 4
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport4/master.m3u8
+
+#EXTINF:-1 tvg-chno="149" tvg-name="Antenna Sud Sport 5" tvg-logo="https://www.antennasud.com/media/2025/08/TASTI-STREAMING-SPORT-5.png", Antenna Sud Sport 5
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport5/master.m3u8
+
+#EXTINF:-1 tvg-chno="150" tvg-name="Antenna Sud Sport 6" tvg-logo="https://www.antennasud.com/media/2026/01/TASTI-STREAMING-SPORT-6-quadrato.png", Antenna Sud Sport 6
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport6/master.m3u8
+
+#EXTINF:-1 tvg-chno="151" tvg-name="Antenna Sud Sport 7" tvg-logo="https://www.antennasud.com/media/2026/01/TASTI-STREAMING-SPORT-7.png", Antenna Sud Sport 7
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport7/master.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
 #EXTSIZE: Medium
