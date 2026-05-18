@@ -48,12 +48,12 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+https://streaming.aurora.enhanced.live/live/mtc/v1/manifest/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/c85f21dd-dc3d-46fb-ac52-20198f5f1cc5/0.m3u8?manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkwOTU0NjcsIm5iZiI6MTc3OTA5NTQ2NywiZXhwIjoxNzc5MDk1ODI3LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNTUuODEuMjA1In0.P-fhj2EVWA4mY1qSNVSvdM-M-I9E9n-n3Xh-AeZ7UMQ
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/manifest/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/c85f21dd-dc3d-46fb-ac52-20198f5f1cc5/0.m3u8?manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkwOTU0NjcsIm5iZiI6MTc3OTA5NTQ2NywiZXhwIjoxNzc5MDk1ODI3LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNTUuODEuMjA1In0.P-fhj2EVWA4mY1qSNVSvdM-M-I9E9n-n3Xh-AeZ7UMQ
+https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=realtime&playerParams.caid=realtime&playerParams.slate=realtime&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkwOTYyMTIsIm5iZiI6MTc3OTA5NjIxMiwiZXhwIjoxNzc5MDk2NTcyLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNTUuODEuMjA1In0.MoVbJ_7gbjCrRDDLNrGkS4bYPBkwwyZxBdjXai3Vdsg
 
 #EXTINF:-1 tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD
 #EXTSIZE: Medium
