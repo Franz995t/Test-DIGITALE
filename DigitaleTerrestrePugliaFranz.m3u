@@ -75,6 +75,11 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 
+#EXTINF:-1 tvg-chno="771" tvg-name="ZDF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApFF2vh05Pm77xAri1hzN_awZK4o-TXbH12A3rMDV5Q&s=10", ZDF
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hls-15.ls.zdf.de/hls/live/2016498/de/high/master.m3u8
+
 #EXTINF:-1 tvg-chno="72" tvg-name="RSI La 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/72-rsila2.png", RSI La 2
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -99,11 +104,6 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="599" tvg-id="RedBull.tv" tvg-name="RedBull TV HD" tvg-logo="https://m.media-amazon.com/images/I/41hkhdw+XvL.png", RedBull TV HD
-#EXTSIZE: Medium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://play.redbull.com/playlists/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxOC0xMC0wOVQxNTozNzozMi4zNzEwNTkxMDFaIiwib3NfZmFtaWx5IjoiY2hyb21lIiwicmVtb3RlX2lwIjoiMTk4LjIyLjEzOC4xNiIsInVhIjoiY3VybC83LjU0LjAiLCJ1aWQiOiI5YzI3YjZjMi0yZmQ4LTQ0MWItYTU4Ni02M2MwNGEzNzRmNzIifQ.h-SzbX8zhDBEYpN30lWHiqCp4ZhPo9fWKHtemqiEA-I/Padel/hls6/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png", Sportitalia HD
 #EXTSIZE: Medium
@@ -239,11 +239,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png", LA7 Cinema
-#EXTSIZE: Medium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png", La5 HD
 #EXTSIZE: Medium
