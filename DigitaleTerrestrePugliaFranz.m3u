@@ -135,6 +135,11 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="102" tvg-name="Redbull TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712", Redbull TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="402" tvg-id="ACI.Sport.TV.HD.it" tvg-name="ACI Sport TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png", ACI Sport TV HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -279,6 +284,16 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/stvp-ITBD1500002NL
+
+#EXTINF:-1 tvg-chno="1011" tvg-name="Rai Storia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rai_Storia_HD_-_Logo_2017.svg", Rai Storia HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-chno="1012" tvg-name="Rai Scuola HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Rai_Scuola_HD_-_Logo_2017.svg", Rai Scuola HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-chno="101" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png", Rai 4K
 #EXTSIZE: Medium
