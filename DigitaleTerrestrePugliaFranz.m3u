@@ -108,7 +108,7 @@ https://hls-15.ls.zdf.de/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png", Rai Sport HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnf32-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1780998713&tof=86400&tk2=2f3e1bccefe2e7599d2cefd6732aaf3d09cf94e66fa8cedc47f31330b23176b9
+https://streamcdnf42-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1780999178&tof=86400&tk2=214d39ab9cbf6018a10e2f5a010a23bfcd3e15f2153994ae6d28e0d46beca6b8
 
 #EXTINF:-1 tvg-chno="406" tvg-name="RaiPlay Sport 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png", RaiPlay Sport 1
 #EXTSIZE: Medium
