@@ -285,12 +285,12 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/stvp-ITBD1500002NL
 
-#EXTINF:-1 tvg-chno="1011" tvg-name="Rai Storia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rai_Storia_HD_-_Logo_2017.svg", Rai Storia HD
+#EXTINF:-1 tvg-chno="1011" tvg-name="Rai Storia HD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/rai-storia.jpg", Rai Storia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-chno="1012" tvg-name="Rai Scuola HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Rai_Scuola_HD_-_Logo_2017.svg", Rai Scuola HD
+#EXTINF:-1 tvg-chno="1012" tvg-name="Rai Scuola HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Raiscuola.png", Rai Scuola HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
