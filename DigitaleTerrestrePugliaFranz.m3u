@@ -263,7 +263,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png", Rai Storia HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnf35-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/playlist_mo.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1780998219&tof=86400&tk2=e3345b801541dc51017975348f336a4391bff244248980be0ea0eea4872190a9
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/playlist_mo.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1780998951&tof=86400&tk2=1353f04a05a02fe66cb81b85bb7f5841242852e5a73bd9112a36c5705a0f3da4
 
 #EXTINF:-1 tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png", Mediaset Extra HD
 #EXTSIZE: Medium
