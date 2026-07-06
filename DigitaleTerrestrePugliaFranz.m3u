@@ -63,7 +63,7 @@ https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881
 #EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=realtime&playerParams.caid=realtime&playerParams.slate=realtime&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkwOTYyMTIsIm5iZiI6MTc3OTA5NjIxMiwiZXhwIjoxNzc5MDk2NTcyLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNTUuODEuMjA1In0.MoVbJ_7gbjCrRDDLNrGkS4bYPBkwwyZxBdjXai3Vdsg
+https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=realtime&playerParams.caid=realtime&playerParams.slate=realtime&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3ODMzNzUyMjYsIm5iZiI6MTc4MzM3NTIyNiwiZXhwIjoxNzgzMzc1NTg2LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiNS45MC4yMTAuMTQ4In0.olwyM6kOufmChL0QA42HKL1O7HK8Q44kEY7h0IO-mmw
 
 #EXTINF:-1 tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24hd.png", Rai News 24 HD
 #EXTSIZE: Medium
@@ -273,7 +273,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="56" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png", HGTV - Home&Garden
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=hgtv&playerParams.caid=hgtv&playerParams.slate=hgtv&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3ODA5OTgxMTgsIm5iZiI6MTc4MDk5ODExOCwiZXhwIjoxNzgwOTk4NDc4LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNTUuODEuMjA1In0.VZu0khF4YzElq99EeyU-_h-IJsbaUjwo76GRftAiAV8
+https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=hgtv&playerParams.caid=hgtv&playerParams.slate=hgtv&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3ODMzNzU0MTcsIm5iZiI6MTc4MzM3NTQxNywiZXhwIjoxNzgzMzc1Nzc3LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiNS45MC4yMTAuMTQ4In0.wgSiiWqMmKbv5npC0fau8ToszsXMzgFvYMODEa892C0
 
 #EXTINF:-1 tvg-chno="66" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/66-radio105.png", Radio 105 TV
 #EXTSIZE: Medium
