@@ -58,7 +58,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=nove&playerParams.caid=nove&playerParams.slate=nove&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkwOTY1MDIsIm5iZiI6MTc3OTA5NjUwMiwiZXhwIjoxNzc5MDk2ODYyLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNTUuODEuMjA1In0.XJv1NYiqdWu2aat29Nk4iFrQSAmHoUOZhpvBDLey43k
+https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=nove&playerParams.caid=nove&playerParams.slate=nove&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3ODMzNzQ4NjIsIm5iZiI6MTc4MzM3NDg2MiwiZXhwIjoxNzgzMzc1MjIyLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiNS45MC4yMTAuMTQ4In0.FMcaVHZMa1Dyw-kuFyP6iuKfAuPOxsIkDe11D1oqdo8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
 #EXTSIZE: Medium
